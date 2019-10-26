@@ -1,2 +1,2 @@
-Git is a version control system.
-Git is free softwae.
+Git is a version control system append GPL.
+Git is free softwae append GPL.
